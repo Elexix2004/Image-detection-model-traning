@@ -1,3 +1,4 @@
+#remove duplicate images using image hashing from a target folder
 import os
 import shutil
 from PIL import Image
