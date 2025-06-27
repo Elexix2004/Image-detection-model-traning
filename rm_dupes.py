@@ -4,8 +4,8 @@ from PIL import Image
 import imagehash
 
 # Define paths using raw strings to avoid Unicode errors
-source_folder = r"C:\Users\aquar\OneDrive\Desktop\code\internship\ml\steel_plate_prjkt\train\frames"           # <-- Put your source images here
-destination_folder = r"C:\Users\aquar\OneDrive\Desktop\code\internship\ml\steel_plate_prjkt\train\rm_dup"  # <-- Unique images will be copied here
+source_folder = r"path here"           # <-- Put your source images here
+destination_folder = r"path here"  # <-- Unique images will be copied here
 
 os.makedirs(destination_folder, exist_ok=True)
 
