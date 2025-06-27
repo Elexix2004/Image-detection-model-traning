@@ -3,7 +3,7 @@ import os
 import cv2
 
 video_path=r'path here' #path of target vid
-output_dir=r'C:\Users\aquar\OneDrive\Desktop\code\internship\master_pr\steel_plate_prjkt\train\frames' 
+output_dir=r'path here' #path output  
 frame_rate= 5
 
 os.makedirs(output_dir,exist_ok=True)
