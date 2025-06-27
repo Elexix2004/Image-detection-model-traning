@@ -2,7 +2,7 @@
 import os
 import cv2
 
-video_path=r'C:\Users\aquar\OneDrive\Desktop\code\internship\master_pr\steel_plate_prjkt\train\plate loading.mkv' #path of target vid
+video_path=r'path here' #path of target vid
 output_dir=r'C:\Users\aquar\OneDrive\Desktop\code\internship\master_pr\steel_plate_prjkt\train\frames' 
 frame_rate= 5
 
